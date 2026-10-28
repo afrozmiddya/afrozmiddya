@@ -11,7 +11,7 @@ and automation.
 - 🌱 Learning and strengthening my skills in full-stack development and AI
 - 💡 Interested in SaaS products, automation, and applied machine learning
 - 🤝 Open to meaningful collaborations, internships, and project opportunities
-- 🌐 Portfolio: [afrozz.netlify.app](https://afrozz.netlify.app/)
+- 🌐 Portfolio: [afrozz.netlify.app](https://afrozmiddya.netlify.app/)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/afroz-middya/)
 
 ---
@@ -48,7 +48,7 @@ A web development project focused on tax-related workflows and information.
 ### 🌐 Portfolio
 My personal portfolio showcasing projects, skills, and development work.
 
-- Live site: [View Portfolio](https://afrozz.netlify.app/)
+- Live site: [View Portfolio](https://afrozmiddya.netlify.app/)
 - Repository: [Portfolio repositories](https://github.com/afrozmiddya?tab=repositories)
 
 ---
@@ -66,6 +66,6 @@ My personal portfolio showcasing projects, skills, and development work.
 I'm interested in connecting with developers, founders, and teams building
 useful software.
 
-- Portfolio: https://afrozz.netlify.app/
+- Portfolio: https://afrozmiddya.netlify.app/
 - GitHub: https://github.com/afrozmiddya
 - LinkedIn: https://www.linkedin.com/in/afroz-middya/
