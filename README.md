@@ -32,18 +32,35 @@ and automation.
 
 ## 🚀 Featured Projects
 
-### ❤️ HeartWise
-A heart-disease risk prediction project exploring the use of machine learning
-in a web-based application.
+### ⚡ Electrical Services
+A professional business website for showcasing electrical services, projects, customer reviews, and contact information.
 
-- Focus: Machine learning and web development
-- Repository: [HeartWise](https://github.com/afrozmiddya/HeartWise)
+- **Focus:** Business website development, responsive UI, SEO
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS
+- **Repository:** [Electrical Services](https://github.com/afrozmiddya/Electrical-Services)
 
-### 🧾 TaxHive
-A web development project focused on tax-related workflows and information.
+### 🎯 LeadHunter
+A lead-generation SaaS application designed to help businesses discover local business prospects, analyze leads, and streamline outreach.
 
-- Focus: Web development
-- Repository: [TaxHive](https://github.com/afrozmiddya)
+- **Focus:** Lead generation, business discovery, AI-assisted analysis
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express.js, Supabase
+- **Features:** Lead discovery, filtering, saved leads, CSV export, AI-assisted analysis
+- **Repository:** [LeadHunter](https://github.com/afrozmiddya/LeadHunter)
+
+### 🍦 Anika Enterprises
+A web application for an ice cream wholesale business, focused on streamlining business operations and providing a digital interface for enterprise workflows.
+
+- **Focus:** Business management, wholesale operations, web development
+- **Tech Stack:** React, JavaScript, and the project's configured frontend technologies
+- **Repository:** [Anika Enterprises — Frontend](https://github.com/PritamDevs/anika_frontend)
+
+### 🤖 DataLens AI
+An AI-assisted data analysis application that helps users explore datasets, generate visualizations, understand statistics, and ask questions about their data in natural language.
+
+- **Focus:** Data analytics, AI-assisted insights, data visualization
+- **Tech Stack:** Python, Streamlit, Pandas, Plotly, Gemma AI integration
+- **Features:** CSV/Excel analysis, dataset profiling, descriptive statistics, interactive charts, natural-language questions
+- **Repository:** [DataLens AI](https://github.com/TechiHigh2-0/Datalance_AI)
 
 ### 🌐 Portfolio
 My personal portfolio showcasing projects, skills, and development work.
