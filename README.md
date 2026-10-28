@@ -11,7 +11,7 @@ and automation.
 - 🌱 Learning and strengthening my skills in full-stack development and AI
 - 💡 Interested in SaaS products, automation, and applied machine learning
 - 🤝 Open to meaningful collaborations, internships, and project opportunities
-- 🌐 Portfolio: [afrozz.netlify.app](https://afrozmiddya.netlify.app/)
+- 🌐 Portfolio: [afrozmiddya.netlify.app](https://afrozmiddya.netlify.app/)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/afroz-middya/)
 
 ---
